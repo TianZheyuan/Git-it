@@ -59,3 +59,5 @@ git learn 文件夹记录了git的完整学习过程：包括简单的操作指�
 - 维护完成后tmpMaster回归master。
 - dev开发完成后回归master。
 
+### git分支常用的指令
+- git branch ：创建、删除分支，列出当前已有的分支
